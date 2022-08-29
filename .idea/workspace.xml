@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93bdab0f-a4b6-470f-b290-1745e8dd04d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/JavaPractice.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch/Switch.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch/src/com/shantanu/Nestedstatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Switch/src/com/shantanu/Switchstatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/src/com/shantanu/Calculatorpro.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/src/com/shantanu/Calculatorpro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaPractice" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/out/production/Loops/com/shantanu/Nestedswitch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Loops/out/production/Loops/com/shantanu/Switchstate.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
