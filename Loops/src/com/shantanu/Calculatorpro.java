@@ -1,10 +1,9 @@
-package com.shantanu;
+package Loops.src.com.shantanu;
 
 import java.io.*;
 import java.lang.*;
 import java.lang.Math;
 import java.util.Scanner;
-public class BasicCalculator;
 
 public class Calculatorpro {
         public static void main(String[] args)
@@ -63,6 +62,4 @@ public class Calculatorpro {
             System.out.println(num1 + " " + op + " " + num2
                     + " = " + o);
         }
-    }
-
 }

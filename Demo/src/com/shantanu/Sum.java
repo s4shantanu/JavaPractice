@@ -1,4 +1,4 @@
-package com.shantanu;
+package Demo.src.com.shantanu;
 
 import java.util.Scanner;
 

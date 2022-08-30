@@ -1,4 +1,4 @@
-package com.shantanu;
+package FunctionsandMethods.src.com.shantanu;
 
 public class Scope {
     public static void main(String[] args) {
