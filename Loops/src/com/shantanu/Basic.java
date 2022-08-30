@@ -1,8 +1,6 @@
-package com.shantanu;
+package Loops.src.com.shantanu;
 
-import java.util.Scanner;
-
-public class Main {
+public class Basic {
     public static void main(String[] args) {
         System.out.println("Hello world");
     }

@@ -1,24 +1,24 @@
 package FunctionsandMethods.src.com.shantanu;
 
-public class Scope {
+public class BlockScope {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;
         String name = "Shantanu";
-        {
-//                int a = 78; // already initialised outside the block in the same method, hence you cannot initialise again
-            a = 100; // reassign the origin ref variable to some other value
-            System.out.println(a);
-            int c = 99;
-            name = "Rahul";
-            System.out.println(name);
-            // values initialised in this block, will remain in block
-        }
-        int c = 900;
-        System.out.println(a);
-        System.out.println(name);
-//        System.out.println(c); // cannot use outside the block
 
+        {
+            a = 30;                     //-------------------> You can update the value but cant be intialized again.
+            System.out.println(a);
+            int c = 43;                 //-----------------> You can reintialized the vaiable outside the block
+            System.out.println(c);
+            name = "Hardik";
+            System.out.println(name);
+//            int c = 3232;               -----------> You cant be re intialized the varible inside you can update only here.
+        }
+        int c = 223;
+        System.out.println(c);
+        System.out.println(name);
+        System.out.println(a);
         // scoping in for loops
         for (int i = 0; i < 4; i++) {
 //            System.out.println(i);
@@ -34,4 +34,3 @@ public class Scope {
         System.out.println(marks);
     }
 }
-
